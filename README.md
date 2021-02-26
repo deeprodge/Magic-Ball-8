@@ -1,14 +1,55 @@
 
 # Magic 8 Ball 🎱
 
-## Our Goal
+## What is does?
 
-The objective of this challenge is to solidify what you've learn't in the Dicee tutorial. This app will guide you through the steps required to build an 8 ball app and you will be applying what you have learnt about Stateless and Stateful Flutter widgets.
+It is a Magical 8 ball app, it will give you the answers to all the tricky questions in life. Just ask a question and shake your device or tap on the ball.
 
 
-## What you will create
+<img src="https://i.imgur.com/Pdhzc7N.png" width="250"> <img src="https://i.imgur.com/eorZtbn.png" width="250"> <img src="https://i.imgur.com/M3lgdSU.png" width="250">
 
-We’re going to make a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button. 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
+## What I learned
+
+- How to incorporate open source libraries of code into your project using Flutter Packages.
+- How to make your device vibrate.
+- How to stack different elements on each other
+
+
+## To Run the app in your local machine
+Clone the repository and user
+```
+flutter run
+```
+
+to hot reload the project press,
+```
+r
+```
+## Built By
+- [Deep Rodge](https://github.com/deeprodge)
+```
+MIT License
+
+Copyright (c) 2020 Deep Rodge
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
 
