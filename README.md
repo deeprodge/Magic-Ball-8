@@ -1,6 +1,8 @@
 
 # Magic 8 Ball 🎱
 
+<a href="https://play.google.com/store/apps/details?id=co.deeprodge.magic8ball"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/1280px-Google_Play_Store_badge_EN.svg.png" width="250"> </a>
+
 ## What is does?
 
 It is a Magical 8 ball app, it will give you the answers to all the tricky questions in life. Just ask a question and shake your device or tap on the ball.
