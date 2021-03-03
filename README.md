@@ -5,7 +5,7 @@
 
 ## What is does?
 
-It is a Magical 8 ball app, it will give you the answers to all the tricky questions in life. Just ask a question and shake your device or tap on the ball.
+It is a Magical 8 ball app, that will give you the answers to all the tricky questions in life. Just ask a question and shake your device or tap on the ball.
 
 
 <img src="https://i.imgur.com/Pdhzc7N.png" width="250"> <img src="https://i.imgur.com/eorZtbn.png" width="250"> <img src="https://i.imgur.com/M3lgdSU.png" width="250">
